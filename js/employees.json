@@ -1,0 +1,28 @@
+{
+    "employees" : [
+        {
+            "id" : 1,
+            "name" : "Claudio",
+            "surname" : "Morales",
+            "position" : "Web Developer"
+        },
+        {
+            "id" : 2,
+            "name" : "Reed",
+            "surname" : "Lee",
+            "position" : "Web Marketing"
+        },
+        {
+            "id" : 3,
+            "name" : "Anthony",
+            "surname" : "Kovács",
+            "position" : "UX / UI"
+        },
+        {
+            "id" : 4,
+            "name" : "Daxton",
+            "surname" : "Harris",
+            "position" : "Servers"
+        }
+    ]
+}
